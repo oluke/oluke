@@ -5,7 +5,7 @@ Data science enthusiast with a passion for data science and machine learning. Pr
 ### I'm A Researcher
 
 - 🌱 I’m currently learning **DNA identification using machine learning**.
-- 📝 I regularly write articles on [Scholar](https://scholar.google.com/citations?user=BytuPMsAAAAJ&hl=en)
+- 📝 I regularly write articles on [Scholar](https://scholar.google.com/citations?user=BytuPMsAAAAJ&hl=en).
 - 🛠️ I'm frequently using Python to accomplish data science tasks with Pandas, NumPy and Scikit-Learn.
 - ⚡ Fun fact **Capable of apnea underwater for 50 meters**.
 
