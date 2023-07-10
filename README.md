@@ -1,25 +1,13 @@
-<!--
-**oluke/oluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋, I'm O'Luke
 
-Here are some ideas to get you started:
+Data science enthusiast with a passion for data science and machine learning. Proficient in data analysis, statistical analysis, and the end-to-end data science and machine learning process. Published scientific articles on data science and machine learning, showcasing strong research and analytical abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Lukman</h1>
-<h3 align="center">Data science enthusiast with a passion for data science and machine learning. Proficient in data analysis, statistical analysis, and the end-to-end data science and machine learning process. Highly frequent using Python to accomplish data science and machine learning tasks with Pandas, NumPy and Scikit-Learn, SQL to help ETL process. Published scientific articles on data science and machine learning, showcasing strong research and analytical abilities.</h3>
+### I'm A Researcher
 
-- 🌱 I’m currently learning **Data Science and MLOps**
-
-- 📝 I regularly write articles on [https://scholar.google.com/citations?user=BytuPMsAAAAJ&hl=en](https://scholar.google.com/citations?user=BytuPMsAAAAJ&hl=en)
-
-- ⚡ Fun fact **Capable of apnea underwater for 50 meters**
+- 🌱 I’m currently learning **DNA identification using machine learning**.
+- 📝 I regularly write articles on [Scholar](https://scholar.google.com/citations?user=BytuPMsAAAAJ&hl=en)
+- 🛠️ I'm frequently using Python to accomplish data science tasks with Pandas, NumPy and Scikit-Learn.
+- ⚡ Fun fact **Capable of apnea underwater for 50 meters**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
